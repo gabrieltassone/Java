@@ -1,0 +1,5 @@
+git clone https://github.com/kaitzen-java/java_puro
+
+
+https://github.com/kaitzen-java/java_puro/tree/master/BasicJava
+https://diegobersano.com.ar/2017/06/13/introduccion-a-git-repaso-a-los-conceptos-generales/
